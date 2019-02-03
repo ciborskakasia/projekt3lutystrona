@@ -2134,6 +2134,7 @@ input, select, textarea {
 
 		ul li {
 			padding-left: 0.5em;
+			color: red;
 		}
 
 		ul.alt {
